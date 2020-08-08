@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export class Navigation extends Component {
   render() {
     return (
-      <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <nav id="menu" className="navbar navbar-default navbar-fixed-top" style={{backgroundColor: "#02a3da"}}>
         <div className="container">
           <div className="navbar-header">
             <button
@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              React Landing Page
+              WE CHARITY MN
             </a>{" "}
           </div>
 
@@ -28,31 +28,32 @@ export class Navigation extends Component {
             id="bs-example-navbar-collapse-1"
           >
             <ul className="nav navbar-nav navbar-right">
-              <li>
+              {/* <li>
                 <a href="#features" className="page-scroll">
                   Features
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#about" className="page-scroll">
                   About
                 </a>
               </li>
               <li>
+                <a href="#portfolio" className="page-scroll">
+                  Events
+                </a>
+              </li>
+              {/* <li>
                 <a href="#services" className="page-scroll">
                   Services
                 </a>
               </li>
-              <li>
-                <a href="#portfolio" className="page-scroll">
-                  Gallery
-                </a>
-              </li>
+
               <li>
                 <a href="#testimonials" className="page-scroll">
                   Testimonials
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#team" className="page-scroll">
                   Team
