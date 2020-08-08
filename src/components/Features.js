@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class features extends Component {
+export class Features extends Component {
   render() {
     return (
       <div id="features" className="text-center">
@@ -26,4 +26,4 @@ export class features extends Component {
   }
 }
 
-export default features;
+export default Features;
