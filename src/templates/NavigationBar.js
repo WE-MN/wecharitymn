@@ -1,10 +1,9 @@
 import React from 'react';
 import {AppBar, Toolbar, Typography, Button, Menu, MenuItem} from '@material-ui/core';
-import {fade, makeStyles } from '@material-ui/core/styles';
+import {makeStyles } from '@material-ui/core/styles';
 import IconButton from '@material-ui/core/IconButton'
 import {MoreVert, TextRotationNoneOutlined} from '@material-ui/icons'
-import MenuIcon from '@material-ui/icons/Menu'
-import Calendar from 'react-calendar'
+import EmailIcon from '@material-ui/icons/Email';
 import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles((theme) => ({
@@ -81,15 +80,25 @@ const NavigationBar = (props) => {
                     <Link to='/contact' className={classes.link}>CONTACT</Link>
                   </div>
                 </Typography>
-                <IconButton 
+
+              <IconButton 
                 aria-label="show more" 
                 aria-haspopup="true" 
                 color="inherit"
-                // aria-controls={mobileMenuId} 
-                // onClick={handleMobileMenuOpen} 
+                aria-controls={handleClick} 
+                onClick={handleClick} 
                 >
+                <EmailIcon/>
+              </IconButton>
+              <IconButton 
+                aria-label="show more" 
+                aria-haspopup="true" 
+                color="inherit"
+                aria-controls={handleClick} 
+                onClick={handleClick} >
                 <MoreVert/>
               </IconButton>
+              {renderMenu}
             </Toolbar>
         </AppBar>
     );

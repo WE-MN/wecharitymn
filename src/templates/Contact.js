@@ -2,7 +2,7 @@ import React from 'react';
 import NavigationBar from './NavigationBar';
 
 
-const Home = (props) => {
+const Contact = (props) => {
     return(
         <div>
             <NavigationBar/>
@@ -11,4 +11,4 @@ const Home = (props) => {
     );
 }
 
-export default Home;
+export default Contact;
