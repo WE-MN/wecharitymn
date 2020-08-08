@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class Events extends Component {
+export class Gallery extends Component {
   render() {
     return (
       <div id="portfolio" className="text-center">
@@ -211,4 +211,4 @@ export class Events extends Component {
   }
 }
 
-export default Events;
+export default Gallery;
