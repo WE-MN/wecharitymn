@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class Testimonials extends Component {
+export class testimonials extends Component {
   render() {
     return (
       <div id="testimonials">
@@ -32,4 +32,4 @@ export class Testimonials extends Component {
   }
 }
 
-export default Testimonials;
+export default testimonials;
