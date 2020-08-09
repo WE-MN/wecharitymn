@@ -83,74 +83,74 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/sandhya.jpg",
             "name": "Sandhya Ratnam",
             "job": "President"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/suvurna.jpg",
             "name": "Suvarna Nallamali",
             "job": "President"
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/neil.jpg",
             "name": "Neil Patel",
             "job": "Secretary"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Neil Patel",
+            "img": "img/team/subha.jpg",
+            "name": "Subha Ravichandran",
             "job": "Marketing Officer"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/saloni.jpg",
             "name": "Saloni Desai",
             "job": "Marketing Officer"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/dharshini.jpg",
             "name": "Dharshini Anugu",
             "job": "Marketing Officer"
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/pankeel.jpg",
             "name": "Pankeel Shah",
             "job": "Events Officer"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/jared.jpg",
             "name": "Jared Lim",
             "job": "Events Officer"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/nikhil.jpg",
             "name": "Nikhil Tammana",
             "job": "Events Officer"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/drashti.jpg",
             "name": "Drashti Waghani",
             "job": "Finance Officer"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/raunak.jpg",
             "name": "Raunak Pandey",
             "job": "Finance Officer"
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/anjali.jpg",
             "name": "Anjali Ratnam",
             "job": "Freshman Representative"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/ko.jpg",
             "name": "Ko Seelan",
             "job": "Affiliate Liaison"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/sree.jpg",
             "name": "Sree Pemma",
             "job": "Affiliate Liaison"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/akshay.jpg",
             "name": "Akshay Naik",
             "job": "Affiliate Liaison"
         }
