@@ -86,22 +86,75 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Sandhya Ratnam",
+            "job": "President"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Suvarna Nallamali",
+            "job": "President"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Neil Patel",
+            "job": "Secretary"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Neil Patel",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Saloni Desai",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Dharshini Anugu",
+            "job": "Marketing Officer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Pankeel Shah",
+            "job": "Events Officer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Jared Lim",
+            "job": "Events Officer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Nikhil Tammana",
+            "job": "Events Officer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Drashti Waghani",
+            "job": "Finance Officer"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Raunak Pandey",
+            "job": "Finance Officer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Anjali Ratnam",
+            "job": "Freshman Representative"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Ko Seelan",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Sree Pemma",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Akshay Naik",
+            "job": "Affiliate Liaison"
         }
     ],
     "Contact": {
@@ -110,24 +163,29 @@
         "facebook": "https://www.facebook.com/WECharityMinnesota/"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-tint",
+            "title": "Water",
+            "text": "Without water, a community can’t grow. We help communities install hand pumps, boreholes, wells, pipes, hand-washing stations, rain catchment systems and latrines. Clean water gives families the chance to raise healthy children, run sustainable farms and send their girls to school."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-pencil-square",
+            "title": "Education",
+            "text": "Our education pillar goes beyond school building. We provide teacher training, extracurricular programs, books and basic school supplies so that children can focus on their studies without worrying about absent teachers or a lack of learning materials."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-cutlery",
+            "title": "Food",
+            "text": "Nutritious food fuels growing minds and contributes to thriving communities. Made possible by founding partner Nutrition, we help provide school gardens, family farms, nutrition programs, agriculture training, improved seeds and irrigation projects so that communities can achieve long-term health and access stable food sources."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-medkit",
+            "title": "Health",
+            "text": "A healthy community is a sustainable community. When children are healthy, they are less likely to miss school or drop out. And when parents are healthy, their family businesses are more likely to thrive. By offering health training, clinics, medical supplies and workshops to developing communities, we’re empowering families to transform their lives and their communities."
+        },
+        {
+            "icon": "fa fa-check",
+            "title": "Opportunity",
+            "text": "Entrepreneurship doesn’t just give parents the means to provide for their family—it empowers a generation with new skills that will transform their lives. We help parents, especially mothers, create new economic opportunities through leadership sessions, financial literacy workshops and vocational training."
         }
     ]
 }
