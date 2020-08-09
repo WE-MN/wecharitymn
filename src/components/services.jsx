@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Services extends Component {
+export class Services extends Component {
   render() {
     return (
       <div id="services" className="text-center">

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class About extends Component {
+export class about extends Component {
   render() {
     return (
         <div id="about">
@@ -34,4 +34,4 @@ class About extends Component {
   }
 }
 
-export default About
+export default about

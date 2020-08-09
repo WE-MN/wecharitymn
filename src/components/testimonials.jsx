@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class testimonials extends Component {
+export class testimonials extends Component {
   render() {
     return (
       <div id="testimonials">

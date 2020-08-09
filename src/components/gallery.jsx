@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Gallery extends Component {
+export class Gallery extends Component {
   render() {
     return (
       <div id="portfolio" className="text-center">
