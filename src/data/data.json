@@ -15,7 +15,8 @@
             "Lorem ipsum dolor",
             "Exercitation ullamco",
             "Lorem ipsum dolor"
-        ]
+        ],
+        "image": "img/about.jpg"
     },
     "Services": [{
             "icon": "fa fa-wordpress",
