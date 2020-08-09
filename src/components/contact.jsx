@@ -63,21 +63,8 @@ export class Contact extends Component {
             <div className="col-md-3 col-md-offset-1 contact-info">
               <div className="contact-item">
                 <h3>Contact Info</h3>
-                <p>
-                  <span>
-                    <i className="fa fa-map-marker"></i> Address
-                  </span>
-                  {this.props.data ? this.props.data.address : "loading"}
-                </p>
               </div>
-              <div className="contact-item">
-                <p>
-                  <span>
-                    <i className="fa fa-phone"></i> Phone
-                  </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
-                </p>
-              </div>
+             
               <div className="contact-item">
                 <p>
                   <span>
@@ -93,19 +80,14 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href={this.props.data ? this.props.data.instagram : "/"}
                       >
+                        <i className="fa fa-instagram"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href={this.props.data ? this.props.data.facebook : "/"}>
                         <i className="fa fa-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
                       </a>
                     </li>
                   </ul>
@@ -117,10 +99,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
+              &copy; 2020 WE Charity MN. Design by {"Pankeel Shah & Nikhil Tammana "}
             </p>
           </div>
         </div>
