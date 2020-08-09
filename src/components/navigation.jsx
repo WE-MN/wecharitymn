@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              WE CHARITY MN
+              WE CHARITY - MN
             </a>{" "}
           </div>
 
@@ -30,7 +30,7 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                  PILLARS
                 </a>
               </li>
               <li>
@@ -38,21 +38,21 @@ export class Navigation extends Component {
                   About
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#services" className="page-scroll">
                   Services
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  Events
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#testimonials" className="page-scroll">
                   Testimonials
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#team" className="page-scroll">
                   Team

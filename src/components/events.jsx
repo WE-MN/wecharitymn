@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 
-export class Gallery extends Component {
+export class Events extends Component {
   render() {
     return (
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>Events</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
               dapibus leonec.
@@ -211,4 +211,4 @@ export class Gallery extends Component {
   }
 }
 
-export default Gallery;
+export default Events;
