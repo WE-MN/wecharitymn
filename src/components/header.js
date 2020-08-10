@@ -20,7 +20,7 @@ export class Header extends Component {
                     href="#about"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                   Learn more
+                   {this.props.data ? this.props.data.buttonMessage : "Loading"}
                   </a>{" "}
                 </div>
               </div>
