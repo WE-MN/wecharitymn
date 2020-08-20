@@ -12,9 +12,13 @@ $(function() {
             var email = $("input#email").val();
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
+            console.log(name)
+            console.log(email)
+            console.log(message)
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
+                console.log(firstName)
             }
             $.ajax({
                 url: "././mail/contact_me.php",

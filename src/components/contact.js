@@ -21,6 +21,7 @@ export class Contact extends Component {
                       <div className="form-group">
                         <input
                           type="text"
+                          name="name"
                           id="name"
                           className="form-control"
                           placeholder="Name"
@@ -33,6 +34,7 @@ export class Contact extends Component {
                       <div className="form-group">
                         <input
                           type="email"
+                          name="email"
                           id="email"
                           className="form-control"
                           placeholder="Email"
@@ -49,7 +51,7 @@ export class Contact extends Component {
                       className="form-control"
                       rows="4"
                       placeholder="Message"
-                      required
+                      required="required"
                     ></textarea>
                     <p className="help-block text-danger"></p>
                   </div>
