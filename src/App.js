@@ -31,7 +31,7 @@ export class App extends Component {
         <Pillars data={this.state.landingPageData.Features} />
         
         {/* <Services data={this.state.landingPageData.Services} /> */}
-        <Events />
+        <Events data={this.state.landingPageData.Events}/>
         {/* <Testimonials data={this.state.landingPageData.Testimonials} /> */}
         <Team data={this.state.landingPageData.Team} />
         <Contact data={this.state.landingPageData.Contact} />

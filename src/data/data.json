@@ -17,7 +17,7 @@
             "Exercitation ullamco",
             "Lorem ipsum dolor"
         ],
-        "image": "img/about.jpg"
+        "image": "img/we/we5.jpg"
     },
     "Services": [{
             "icon": "fa fa-wordpress",
@@ -185,6 +185,31 @@
             "icon": "fa fa-check",
             "title": "Opportunity",
             "text": "Entrepreneurship doesn’t just give parents the means to provide for their family—it empowers a generation with new skills that will transform their lives. We help parents, especially mothers, create new economic opportunities through leadership sessions, financial literacy workshops and vocational training."
+        }
+    ],
+    "Events": [{
+            "title": "test",
+            "img": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "test",
+            "img": "img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "test",
+            "img": "img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "test",
+            "img": "img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "test",
+            "img": "img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "test",
+            "img": "img/portfolio/06-small.jpg"
         }
     ]
 }
