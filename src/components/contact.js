@@ -38,7 +38,6 @@ export class Contact extends Component {
   this.setState({
     name: '',
     email: '',
-    subject: '',
     message: '',
     disabled: true
   })
