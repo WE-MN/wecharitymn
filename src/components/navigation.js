@@ -64,11 +64,9 @@ export class Navigation extends Component {
                   Contact
                 </a>
               </li>
-              <li>
-                <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LMAZZME4H4EYY&source=url" target="_blank" rel="noopener noreferrer">
-                  Donate
-                </a>
-              </li>
+              <a className="btn btn-custom btn-lg page-scroll" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LMAZZME4H4EYY&source=url" target="_blank" rel="noopener noreferrer">
+                Donate
+              </a>
             </ul>
           </div>
         </div>
