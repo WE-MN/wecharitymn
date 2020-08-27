@@ -157,6 +157,14 @@ render() {
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
+                  <li>
+                    <a 
+                    href={this.props.data ? this.props.data.linkedin : "/"}
+                    rel="noopener noreferrer" 
+                    target="_blank">
+                      <i className="fa fa-linkedin"></i>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
