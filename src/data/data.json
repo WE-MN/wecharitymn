@@ -189,28 +189,16 @@
         }
     ],
     "Events": [{
-            "title": "test",
-            "img": "img/portfolio/01-small.jpg"
+            "title": "India Association of Minnesota, Indian Student Association, and WE Charity - MN invite you to a series of zoom discussions regarding racial injustice. Each week we will have guest speakers who will be discussing different topics. Click here to view our statement on BLM.",
+            "img": "img/portfolio/speakerseries.jpg"
         },
         {
-            "title": "test",
-            "img": "img/portfolio/02-small.jpg"
+            "title": "We raised $1657 for the Islamic Relief for humanitarian aid in Yemen. Please continue donating!",
+            "img": "img/portfolio/yemen.jpg"
         },
         {
-            "title": "test",
-            "img": "img/portfolio/03-small.jpg"
-        },
-        {
-            "title": "test",
-            "img": "img/portfolio/04-small.jpg"
-        },
-        {
-            "title": "test",
-            "img": "img/portfolio/05-small.jpg"
-        },
-        {
-            "title": "test",
-            "img": "img/portfolio/06-small.jpg"
+            "title": "We raised over $500! We are now able to provide 20 kids with access to primary education because of your support!",
+            "img": "img/portfolio/candygram.jpg"
         }
     ]
 }
