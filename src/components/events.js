@@ -21,7 +21,7 @@ export class Events extends Component {
                     <div className="hover-bg">
                       {" "}
                       <a
-                        href={d.img}
+                        // href={d.link}
                         title={d.title}
                         data-lightbox-gallery="gallery1"
                       >

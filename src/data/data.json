@@ -49,39 +49,6 @@
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
-
-
-    ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
     ],
     "Team": [{
             "img": "img/team/sandhya.jpg",
@@ -190,15 +157,18 @@
     ],
     "Events": [{
             "title": "India Association of Minnesota, Indian Student Association, and WE Charity - MN invite you to a series of zoom discussions regarding racial injustice. Each week we will have guest speakers who will be discussing different topics. Click here to view our statement on BLM.",
-            "img": "img/portfolio/speakerseries.jpg"
+            "img": "img/portfolio/speakerseries.jpg",
+            "link": ""
         },
         {
             "title": "We raised $1657 for the Islamic Relief for humanitarian aid in Yemen. Please continue donating!",
-            "img": "img/portfolio/yemen.jpg"
+            "img": "img/portfolio/yemen.jpg",
+            "link": ""
         },
         {
             "title": "We raised over $500! We are now able to provide 20 kids with access to primary education because of your support!",
-            "img": "img/portfolio/candygram.jpg"
+            "img": "img/portfolio/candygram.jpg",
+            "link": ""
         }
     ]
 }
