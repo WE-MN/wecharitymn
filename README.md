@@ -1,2 +1,2 @@
 ## Deployment
-https://wecharitymn.herokuapp.com/
+https://www.wecharitymn.com
