@@ -1,55 +1,18 @@
 {
     "Header": {
 
-        "title": "WE Charity MN",
+        "title": "WE Charity - MN",
         "paragraph": "",
         "buttonMessage": "Learn More"
 
     },
     "About": {
-        "paragraph": "WE Charity - MN is a branch of WE Charity, an international charity and educational partner. We are dedicated to transforming the lives of those in underdeveloped countries by fundraising to provide them with access to education, clean water, food, quality health, and opportunities.",
+        "paragraph": "WE Charity - MN is a branch of WE Charity, an international nonprofit dedicated to transforming the lives of those in underdeveloped countries by fundraising to provide them with access to education, clean water, food, quality health, and opportunities.",
         "Why": [
-           "Our mission is to bring these events to the students at the University of Minnesota who are passionate about making a change and have them hands-on make a positive impact both locally and internationally. We want to raise awareness not only about issues that people face around the world like limited access education and clean water, but also issues that are faced by those in our own community like racism."
+           "Our mission is to put on events for students at the University of Minnesota who are passionate about making a change and have them hands-on make a positive impact both locally and internationally. We want to raise awareness not only about issues that people face around the world like limited access education and clean water, but also issues that are faced by those in our own community like racial injustice."
         ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ],
-        "image": "img/we/we5.jpg"
+        "image": "img/we/we8.jpg"
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-    ],
     "Team": [{
             "img": "img/team/sandhya.jpg",
             "name": "Sandhya Ratnam",
@@ -156,19 +119,20 @@
         }
     ],
     "Events": [{
-            "title": "India Association of Minnesota, Indian Student Association, and WE Charity - MN invite you to a series of zoom discussions regarding racial injustice. Each week we will have guest speakers who will be discussing different topics. Click here to view our statement on BLM.",
+            "title": "WE Charity - MN hosted series of zoom discussions regarding racial injustice. Each week we had guest speakers discuss various topics related to the Civil Rights Movement, Black Lives Matter, and racism.",
             "img": "img/portfolio/speakerseries.jpg",
-            "link": ""
+            "link":""
         },
         {
-            "title": "We raised $1657 for the Islamic Relief for humanitarian aid in Yemen. Please continue donating!",
+            "title": "We raised $1657 for the Islamic Relief for humanitarian aid in Yemen!",
             "img": "img/portfolio/yemen.jpg",
             "link": ""
         },
         {
-            "title": "We raised over $500! We are now able to provide 20 kids with access to primary education because of your support!",
+            "title": "We raised over $500! We are now able to provide funding for COVID-19 relief and help build a school in Barind, India!",
             "img": "img/portfolio/candygram.jpg",
             "link": ""
         }
     ]
+
 }
