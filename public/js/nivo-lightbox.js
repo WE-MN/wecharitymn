@@ -1,10 +1,10 @@
 /*
  * Nivo Lightbox v1.2.0
- * http://dev7studios.com/nivo-lightbox
+ * https://dev7studios.com/nivo-lightbox
  *
  * Copyright 2013, Dev7studios
  * Free to use and abuse under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
+ * https://www.opensource.org/licenses/mit-license.php
  */
 
 ;(function($, window, document, undefined){
@@ -194,15 +194,15 @@
                     classTerm = 'nivo-lightbox-video';
 
                 if(video[1] == 'youtube'){
-                    src = 'http://www.youtube.com/embed/'+ video[4];
+                    src = 'https://www.youtube.com/embed/'+ video[4];
                     classTerm = 'nivo-lightbox-youtube';
                 }
                 if(video[1] == 'youtu'){
-                    src = 'http://www.youtube.com/embed/'+ video[3];
+                    src = 'https://www.youtube.com/embed/'+ video[3];
                     classTerm = 'nivo-lightbox-youtube';
                 }
                 if(video[1] == 'vimeo'){
-                    src = 'http://player.vimeo.com/video/'+ video[3];
+                    src = 'https://player.vimeo.com/video/'+ video[3];
                     classTerm = 'nivo-lightbox-vimeo';
                 }
 
