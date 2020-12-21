@@ -6,7 +6,7 @@ export class pillars extends Component {
       <div id="features" className="text-center">
         <div className="container">
           <div className="col-md-10 col-md-offset-1 section-title">
-            <h2>The 5 Pillars</h2>
+            <h2>The 3 Pillars</h2>
           </div>
           <div className="row">
             {this.props.data
