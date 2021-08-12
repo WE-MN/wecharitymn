@@ -26,10 +26,10 @@ export class Contact extends Component {
       message_html: message
       }
       emailjs.send(
-      'gmail',
-      'template_3xqvDz8R',
+      'service_ohllj0e',
+      'template_eh2oldg',
         templateParams,
-      'user_QSxIqOrf7vNJVr6GvVJzJ'
+      'user_8t5p9oWKr68OoTvG28PDB'
       )
       this.resetForm()
     }
