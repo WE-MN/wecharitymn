@@ -174,7 +174,7 @@ render() {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2020 MN WE: Wish to Empower. Design by {"Pankeel Shah, Nikhil Tammana, & Sandhya Ratnam "}
+            &copy; 2020 MN WE: Wish to Empower. Created by {"MN WE Executive Board"}
           </p>
         </div>
       </div>

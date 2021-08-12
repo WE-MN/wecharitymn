@@ -13,68 +13,37 @@
         ],
         "image": "img/we/logo.jpg"
     },
-    "Team": [{
-            "img": "img/team/sandhya.jpg",
-            "name": "Sandhya Ratnam",
+    "Team": [
+        
+        {
+            "img": "img/team/shreya.jpg",
+            "name": "Shreya Avilala",
             "job": "President"
         },
         {
-            "img": "img/team/suvurna.jpg",
-            "name": "Suvarna Nallamali",
+            "img": "img/team/anjali.jpg",
+            "name": "Anjali Ratnam",
             "job": "President"
-        }, {
-            "img": "img/team/neil.jpg",
-            "name": "Neil Patel",
-            "job": "Secretary"
-        },
-        {
-            "img": "img/team/subha.jpg",
-            "name": "Subha Ravichandran",
-            "job": "Marketing Officer"
-        },
-        {
-            "img": "img/team/saloni.jpg",
-            "name": "Saloni Desai",
-            "job": "Marketing Officer"
         },
         {
             "img": "img/team/dharshini.jpg",
             "name": "Dharshini Anugu",
-            "job": "Marketing Officer"
+            "job": "Finance Officer"
         }, 
-        {
-            "img": "img/team/shreya.jpg",
-            "name": "Shreya Avilala",
-            "job": "Marketing Officer"
-        },
-        {
-            "img": "img/team/pankeel.jpg",
-            "name": "Pankeel Shah",
-            "job": "Events Officer"
-        },
-        {
-            "img": "img/team/jared.jpg",
-            "name": "Jared Lim",
-            "job": "Events Officer"
-        },
-        {
-            "img": "img/team/nikhil.jpg",
-            "name": "Nikhil Tammana",
-            "job": "Events Officer"
-        },
         {
             "img": "img/team/drashti.jpg",
             "name": "Drashti Waghani",
             "job": "Finance Officer"
         },
         {
-            "img": "img/team/raunak.jpg",
-            "name": "Raunak Pandey",
-            "job": "Finance Officer"
-        }, {
-            "img": "img/team/anjali.jpg",
-            "name": "Anjali Ratnam",
-            "job": "Freshman Representative"
+            "img": "img/team/aditya.png",
+            "name": "Aditya Prabhu",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/vincent.png",
+            "name": "Vincent Cao",
+            "job": "Marketing Officer"
         },
         {
             "img": "img/team/ko.jpg",
@@ -87,16 +56,74 @@
             "job": "Affiliate Liaison"
         },
         {
-            "img": "img/team/akshay.jpg",
-            "name": "Akshay Naik",
+            "img": "img/team/rashmika.png",
+            "name": "Rashmika Cheekati",
             "job": "Affiliate Liaison"
+        },
+        {
+            "img": "img/team/twisha.png",
+            "name": "Twisha Boradia",
+            "job": "Affiliate Liaison"
+        },
+        
+        {
+            "img": "img/team/sandhya.png",
+            "name": "Sandhya Ratnam",
+            "job": "Advisor"
+        },
+        {
+            "img": "",
+            "name": "Rohit Ravichandran",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "",
+            "name": "Dhwani Hingu",
+            "job": "Secretary"
         }
 
     ],
+    "Alumni": [
+        {
+            "name": "Suvarna Nallamali",
+            "job": "President"
+        }, {
+            "name": "Neil Patel",
+            "job": "Secretary"
+        },
+        {
+            "name": "Subha Ravichandran",
+            "job": "Marketing Officer"
+        },
+        {
+            "name": "Saloni Desai",
+            "job": "Marketing Officer"
+        },
+        {
+            "name": "Pankeel Shah",
+            "job": "Events Officer"
+        },
+        {
+            "name": "Jared Lim",
+            "job": "Events Officer"
+        },
+        {
+            "name": "Nikhil Tammana",
+            "job": "Events Officer"
+        },
+        {
+            "name": "Raunak Pandey",
+            "job": "Finance Officer"
+        },
+        {
+            "name": "Akshay Naik",
+            "job": "Affiliate Liaison"
+        }
+    ],
     "Contact": {
         "email": "mnwe@umn.edu",
-        "instagram": "https://www.instagram.com/wecharitymn/",
-        "facebook": "https://www.facebook.com/WECharityMinnesota/",
+        "instagram": "https://www.instagram.com/mnwe.wishtoempower/",
+        "facebook": "https://www.facebook.com/weminnesota/",
         "linkedin": "https://www.linkedin.com/company/we-charity-mn/"
     },
     "Features": [
@@ -117,6 +144,21 @@
         }
     ],
     "Events": [
+        {
+            "title": "We teamed up with the Al-Madinah Cultural Center and Yemen Aid to raise over $20,000 for Yemen!",
+            "img": "img/portfolio/yemencrisis.jpg",
+            "link": ""
+        },
+        {
+            "title": "We teamed up with She's the First to celebrate Women's History Month",
+            "img": "img/portfolio/womenshistorymonth.png",
+            "link": ""
+        },
+        {
+            "title": "We were able to raise over $250 for COVID relief!",
+            "img": "img/portfolio/candygrams2.png",
+            "link": ""
+        },
         {
             "title": "We teamed up with the Al-Madinah Cultural Center for a discussion on \"Racial Disparities: Effects of Covid on the BIPOC Community\"",
             "img": "img/portfolio/amcc.jpg",

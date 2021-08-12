@@ -60,6 +60,11 @@ export class Navigation extends Component {
                 </a>
               </li>
               <li>
+                <a href="#alumni" className="page-scroll">
+                  Alumni
+                </a>
+              </li>
+              <li>
                 <a href="#contact" className="page-scroll">
                   Contact
                 </a>
