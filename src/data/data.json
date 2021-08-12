@@ -41,14 +41,14 @@
             "job": "Marketing Officer"
         },
         {
-            "img": "img/team/vincent.png",
-            "name": "Vincent Cao",
-            "job": "Marketing Officer"
-        },
-        {
             "img": "img/team/ko.jpg",
             "name": "Ko Seelan",
             "job": "Affiliate Liaison"
+        },
+        {
+            "img": "img/team/vincent.png",
+            "name": "Vincent Cao",
+            "job": "Marketing Officer"
         },
         {
             "img": "img/team/sree.jpg",
