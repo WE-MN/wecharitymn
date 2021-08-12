@@ -67,19 +67,19 @@
         },
         
         {
-            "img": "img/team/sandhya.png",
-            "name": "Sandhya Ratnam",
-            "job": "Advisor"
-        },
-        {
-            "img": "",
+            "img": "img/team/rohit.png",
             "name": "Rohit Ravichandran",
             "job": "Marketing Officer"
         },
         {
-            "img": "",
+            "img": "img/team/dhwani.png",
             "name": "Dhwani Hingu",
             "job": "Secretary"
+        },
+        {
+            "img": "img/team/sandhya.png",
+            "name": "Sandhya Ratnam",
+            "job": "Advisor"
         }
 
     ],
