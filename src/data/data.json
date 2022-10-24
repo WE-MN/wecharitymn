@@ -26,67 +26,25 @@
             "job": "President"
         },
         {
-            "img": "img/team/dharshini.jpg",
-            "name": "Dharshini Anugu",
-            "job": "Finance Officer"
-        }, 
-        {
-            "img": "img/team/drashti.jpg",
-            "name": "Drashti Waghani",
-            "job": "Finance Officer"
-        },
-        {
             "img": "img/team/aditya.png",
             "name": "Aditya Prabhu",
-            "job": "Marketing Officer"
-        },
-        {
-            "img": "img/team/ko.jpg",
-            "name": "Ko Seelan",
-            "job": "Affiliate Liaison"
-        },
-        {
-            "img": "img/team/vincent.png",
-            "name": "Vincent Cao",
-            "job": "Marketing Officer"
-        },
-        {
-            "img": "img/team/sree.jpg",
-            "name": "Sree Pemma",
-            "job": "Affiliate Liaison"
-        },
-        {
-            "img": "img/team/rashmika.png",
-            "name": "Rashmika Cheekati",
-            "job": "Affiliate Liaison"
-        },
-        {
-            "img": "img/team/twisha.png",
-            "name": "Twisha Boradia",
-            "job": "Affiliate Liaison"
-        },
-        
-        {
-            "img": "img/team/rohit.png",
-            "name": "Rohit Ravichandran",
             "job": "Marketing Officer"
         },
         {
             "img": "img/team/dhwani.png",
             "name": "Dhwani Hingu",
             "job": "Secretary"
-        },
-        {
-            "img": "img/team/sandhya.png",
-            "name": "Sandhya Ratnam",
-            "job": "Advisor"
         }
+        
 
     ],
     "Alumni": [
         {
             "name": "Suvarna Nallamali",
             "job": "President"
+        }, {
+            "name": "Sandhya Ratnam",
+            "job": "President/Advisor"
         }, {
             "name": "Neil Patel",
             "job": "Secretary"
@@ -118,6 +76,37 @@
         {
             "name": "Akshay Naik",
             "job": "Affiliate Liaison"
+        },{
+            "name": "Rohit Ravichandran",
+            "job": "Marketing Officer"
+        },
+        {
+            "name": "Twisha Boradia",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "name": "Rashmika Cheekati",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "name": "Sree Pemma",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "name": "Ko Seelan",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "name": "Vincent Cao",
+            "job": "Marketing Officer"
+        },
+        {
+            "name": "Dharshini Anugu",
+            "job": "Finance Officer"
+        }, 
+        {
+            "name": "Drashti Waghani",
+            "job": "Finance Officer"
         }
     ],
     "Contact": {

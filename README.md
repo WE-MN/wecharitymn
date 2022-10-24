@@ -1,5 +1,5 @@
 ## Deployment
-https://www.wecharitymn.com
+https://z.umn.edu/mnwe
 
 ## Email JS
 Login to: [Email JS website](https://dashboard.emailjs.com/sign-in)
