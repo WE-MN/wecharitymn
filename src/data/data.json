@@ -16,24 +16,64 @@
     "Team": [
         
         {
-            "img": "img/team/shreya1.jpeg",
+            "img": "img/team/shreya.jpg",
             "name": "Shreya Avilala",
             "job": "President"
         },
         {
-            "img": "img/team/anjali1.jpg",
+            "img": "img/team/anjali.jpg",
             "name": "Anjali Ratnam",
             "job": "President"
-        },
-        {
-            "img": "img/team/aditya.png",
-            "name": "Aditya Prabhu",
-            "job": "Finance Officer"
         },
         {
             "img": "img/team/dhwani.png",
             "name": "Dhwani Hingu",
             "job": "Secretary"
+        },
+        {
+            "img": "img/team/aditya.jpeg",
+            "name": "Aditya Prabhu",
+            "job": "Finance Officer"
+        },
+        {
+            "img": "img/team/arvind.jpeg",
+            "name": "Arvind Maran",
+            "job": "Finance Officer"
+        },
+        {
+            "img": "img/team/",
+            "name": "Theo Tran",
+            "job": "Finance Officer"
+        },
+        {
+            "img": "img/team/",
+            "name": "Diya Patel",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/neha.jpeg",
+            "name": "Neha Patole",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/ria.jpg",
+            "name": "Ria Shah",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/",
+            "name": "Rachel KC",
+            "job": "Marketing Officer"
+        },
+        {
+            "img": "img/team/ruchitha.jpg",
+            "name": "Ruchitha Bogireddi",
+            "job": "Affiliate Liaison"
+        },
+        {
+            "img": "img/team/sai.jpg",
+            "name": "Sai Tallapragada",
+            "job": "Affiliate Liaison"
         }
         
 
@@ -85,10 +125,6 @@
             "job": "Affiliate Liaison"
         },
         {
-            "name": "Rashmika Cheekati",
-            "job": "Affiliate Liaison"
-        },
-        {
             "name": "Sree Pemma",
             "job": "Affiliate Liaison"
         },
@@ -133,6 +169,21 @@
         }
     ],
     "Events": [
+        {
+            "title": "We were able to raise over $350 from our bake sale! All proceeds went to support Yemen!",
+            "img": "img/portfolio/bakesale.png",
+            "link": ""
+        },
+        {
+            "title": "All proceeds went to the American Red Cross!",
+            "img": "img/portfolio/candygrams2022.jpeg",
+            "link": ""
+        },
+        {
+            "title": "We were able to raise money for St. Judes Children's Research Hospital!",
+            "img": "img/portfolio/walkathon2021.png",
+            "link": ""
+        },
         {
             "title": "We teamed up with the Al-Madinah Cultural Center and Yemen Aid to raise over $20,000 for Yemen!",
             "img": "img/portfolio/yemencrisis.jpg",
