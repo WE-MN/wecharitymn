@@ -80,12 +80,14 @@
     ],
     "Alumni": [
         {
-            "name": "Suvarna Nallamali",
-            "job": "President"
-        }, {
             "name": "Sandhya Ratnam",
             "job": "President/Advisor"
-        }, {
+        }, 
+        {
+            "name": "Suvarna Nallamali",
+            "job": "President"
+        }, 
+        {
             "name": "Neil Patel",
             "job": "Secretary"
         },
